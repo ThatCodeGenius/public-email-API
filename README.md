@@ -50,7 +50,7 @@ export default function handler(req, res) {
 1.You can then access this endpoint at http://localhost:3000/api/hello.
 Environment Variables
 You can configure environment-specific variables for your project by creating a .env.local file in the root directory of the project. Some common examples include:
-NEXT_PUBLIC_API_URL=https://your-api-url.com
+NEXT_PUBLIC_API_URL=https://hng.tech/hire/nodejs-developers
 DATABASE_URL=your-database-connection-string
 Important:
 Prefix public environment variables with NEXT_PUBLIC_ for them to be exposed to the browser.
